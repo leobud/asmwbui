@@ -17,7 +17,7 @@
             "buttontext": "Welcome",
             "title1": "<TextStyle.Red>Welcome to ASGames!</>",
             "title2": "<TextStyle.Red>Notes</>",
-            "text1":  "Welcome to Ancient Stoney Games, \n\n Please make a tribe \n\nDaily Restarts are at 6:00 am CST \n\n This server is a WIP settings and Mods are subject to change. \n\n ANY item that is the same as the recipe is disabled. \n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed",
+            "text1":  "Welcome to Ancient Stoney Games, \n\n Please make a tribe \n\n Daily Restarts are at 6:00 am CST \n\n This server is a WIP settings and Mods are subject to change. \n\n ANY item that is the same as the recipe is disabled. \n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed",
              "text2": "DO Not Build at the Hidden Lake, do not place teleports or any structure here. \n\nThis is a beaver dam spawn and any structures will keep the dams from spawning. Any structures placed here will be destroyed.",
             "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&"
           }
@@ -39,8 +39,8 @@
             "buttontext": "Info",
             "title1": "Information",
             "title2": "Donations",
-            "text1": "Press F3 For shop \n\n 50 points are earned every 30 minutes to purchase items from shop. \n\n Earn More by being a Patreon. \n Dragon Patreons earn 200, Wyverns Earn 150 and Unicorn earn 100. \n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. \n\n Patreons have 14 days \n\n To check decay time on any struycture or dino, type /decaytime for the time remaining. \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)",
-            "text2": "You can give donation by purchasing points or become a patreon. \n\n Click the tab Purchase Points , this will take you to the Tebex store. \n\n In the store click ARK SHOP ASCENDED then select the plg, be sure to log in with your steam account and also add your EOSid which you can find at the bottom of the shop by pressing F3 \n Points are instantly transfered to your player once bought.",
+            "text1": "Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More by being a Patreon. \n\n Dragon Patreons earn 200, Wyverns Earn 150 and Unicorn earn 100. \n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. \n Patreons have 14 days \n To check decay time on any struycture or dino, type /decaytime for the time remaining. \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)",
+            "text2": "You can give donation by purching points or become a patreon. \n\n Click the tab Purchase Points , this will take you to the Tebex store. \b\n In the store click ARK SHOP ASCENDED then select the plg, be sure to log in with your steam account and also add your EOSid which you can find at the bottom of the shop by pressing F3 \n Points are instantly transfered to your player once bought.",
             "imageurl": ""
           }
         }
