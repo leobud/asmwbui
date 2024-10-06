@@ -18,7 +18,7 @@
             "title1": "<TextStyle.Red>Welcome to ASGames!</>",
             "title2": "<TextStyle.Red>Notes</>",
             "text1":  "Welcome to Ancient Stoney Games,  \n \n Please make a tribe \n\n Daily Restarts are at 6:00 am CST \n\n This server is a WIP settings and Mods are subject to change. \n\n ANY item that is the same as the recipe is disabled. \n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed.\n \n This is a US server. Please only speak English in General Chat.",
-             "text2": "DO Not Build at the Hidden Lake, do not place teleports or any structure here.\n This is a beaver dam spawn and any structures will keep the dams from spawning. \n Do not build at carno-dead island this is a carnivore spawn area. \n Any structures placed here will be destroyed.",
+             "text2": "Only For The Island \n DO Not Build at the Hidden Lake, do not place teleports or any structure here.\n This is a beaver dam spawn and any structures will keep the dams from spawning. \n Do not build at carno-dead island this is a carnivore spawn area. \n Any structures placed here will be destroyed.",
             "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&"
                   }
         },
@@ -39,8 +39,8 @@
             "buttontext": "<TextStyle.Green>Info</>",
             "title1": "<TextStyle.Green>Information</>",
             "title2": "<TextStyle.Green>Donations</>",
-            "text1": "Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More by being a Patreon. \n \n Dragon Patreons earn 200, Wyverns Earn 150 and Unicorn earn 100. \n \n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. \n \n Patreons have 14 days \n To check decay time on any structure or dino, type /decaytime for the time remaining. \n \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)\n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n  r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n  r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n  r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0",
-            "text2": "You can give donation by purchasing points or become a patreon. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the plg, be sure to log in with your steam account and also add your EOSid which you can find at the bottom of the shop by pressing F3 \n \n Points are instantly transfered to your player once bought.",
+            "text1": "Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \n \n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. \n \n Patreons have 14 days \n To check decay time on any structure or dino, type /decaytime for the time remaining. \n \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)\n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n  r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n  r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n  r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0",
+            "text2": "You can give donation by purchasing points. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the plg, be sure to log in with your steam account and also add your EOSid which you can find at the bottom of the shop by pressing F3 \n \n Points are instantly transfered to your player once bought.",
             "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&"
                  }
         },
@@ -50,7 +50,7 @@
             "buttontext": "<TextStyle.Green>Settings</>",
             "title1": "<TextStyle.Green>Setting</>",
             "title2": "<TextStyle.Green>Other</>",
-            "text1": "Max Dino Levels 300 \n\n Player Levels 120 \n\n Harvest 5x \n\n Taming 3x \n\n Mating Interval Multiplier: 0.01 \n\n Egg Hatch Speed Multiplier: 100 \n\n Crop Growth Speed Multiplier: 50 \n\n Custom drops ",
+            "text1": "Settings are Subject to Change \n Max Dino Levels 300 \n\n Player Levels 120 \n\n Harvest 5x \n\n Taming 3x \n\n Mating Interval Multiplier: 0.01 \n\n Egg Hatch Speed Multiplier: 100 \n\n Crop Growth Speed Multiplier: 50 \n\n Custom drops ",
             "text2": "",
             "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&"
                  }
@@ -72,18 +72,12 @@
       "links": [
         {
           "link1": {
-            "text": "Become a Patreon",
-            "url": "https://www.patreon.com/ASGames"
-                   }
-        },
-        {
-          "link2": {
             "text": "Join our Discord",
             "url": "https://discord.gg/aNrBYPtDse"
                   }
         },
         {
-          "link3": {
+          "link2": {
             "text": "Purchase Points",
             "url": "https://asgames.tebex.io/"
                   }
