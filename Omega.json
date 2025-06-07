@@ -15,10 +15,10 @@
           "tab1": {
             "layout": 2,
             "buttontext": "<TextStyle.Red>Welcome</>",
-            "title1": "<TextStyle.Red>Welcome to ASGames!</>",
+            "title1": "<TextStyle.Red>Welcome to Chrons Omega!</>",
             "title2": "<TextStyle.Red>Notes</>",
-            "text1":  "Welcome to Ancient Stoney Games,  \n \n Please make a tribe \n\n Daily Restarts are at 5:00 am CST \n\n This server is a WIP settings and Mods are subject to change. \n\n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. To check decay time on any structure or dino, type /decaytime for the time remaining. \n \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)  \n\n ANY item that is the same as the recipe is disabled. \n\n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed.\n \n This is a US server. Please only speak English in General Chat.",
-             "text2": "Only For The Island \n DO Not Build at the Hidden Lake, do not place teleports or any structure here.\n This is a beaver dam spawn and any structures will keep the dams from spawning. \n Do not build at carno-dead island this is a carnivore spawn area. \n Any structures placed here will be destroyed.",
+            "text1":  "Welcome to Chrons Omega,  \n \n Please make a tribe \n\n Daily Restarts are at 5:00 am CST \n\n This server is a WIP settings and Mods are subject to change. \n\n We use auto decay, if your offline for more than 7 days your dinos and structures will be auto wiped. To check decay time on any structure or dino, type /decaytime for the time remaining. \n \n Structure that have less than 10 items will decay in 2 days (usually for unmaned taming pens)  \n\n ANY item that is the same as the recipe is disabled. \n\n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed.\n \n This is a US server. Please only speak English in General Chat.",
+             "text2": "",
             "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&"
                   }
         },
