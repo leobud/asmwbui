@@ -82,11 +82,11 @@
 				"content": [
 					{
 						"title": "<TextStyle.Green>Shop Info</>",
-						"text": "To buy Points click on the purchase points then select the pkg you want. \n at the end of the transaction you will be given a tbx-xxx number \n go ingame then type /redeem tbx-xxx in chat \ your points will then be available"
+						"text": "To buy Points click on the purchase points then select the pkg you want. \n at the end of the transaction you will be given a tbx-xxx number \n go ingame then type /redeem tbx-xxx in chat \n your points will then be available"
 					},
 					{
 						"title": "<TextStyle.Green>Kits</>",
-						"text": "For kit purchases click on the purchase points and select the kit you want \n these will give you a role \be sure to add your discord name when prompt\ after you get your role be sure to sync discord with the server \n Your pkg will them be available"
+						"text": "For kit purchases click on the purchase points and select the kit you want \n these will give you a role \be sure to add your discord name when prompt\n after you get your role be sure to sync discord with the server \n Your pkg will them be available"
 					}
 				]
 			}
