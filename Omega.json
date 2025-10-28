@@ -67,7 +67,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Green>Setting</>",
-						"text": "Settings are Subject to Change \n Max Dino Levels 150 \n\n Player Levels 120 \n\n Harvest 3x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 3x \n\n Crop Growth Speed Multiplier: 50 \n\n Custom drops "
+						"text": "Settings are Subject to Change \n Max Dino Levels 150 \n\n Player Levels 130 with chibi 135 \n\n Harvest 3x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 3x \n\n Crop Growth Speed Multiplier: 50 \n\n Custom drops "
 					},
 					{
 						"title": "<TextStyle.Green>Other</>",
@@ -104,3 +104,4 @@
 		"version": 2
 	}
 }
+
