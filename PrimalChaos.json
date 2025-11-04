@@ -75,9 +75,9 @@
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Yellow>Gameplay & Progression</>",
-						"text": "Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to <TextStyle.Cyan>Journeyman</>. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill <TextStyle.Red>Shinies</> to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at <TextStyle.Green>Level 120</>.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting."
-					},
+  "title": "<TextStyle.Yellow>Gameplay & Progression</>",
+  "content": "<TextStyle.White>Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to <TextStyle.Cyan>Journeyman</>. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill <TextStyle.Red>Shinies</> to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at <TextStyle.Green>Level 120</>.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting.</>\n\n<TextStyle.Yellow>Drop & Gear Tips</>\n\n<TextStyle.White>➤ White/Green Drops: Starter gear and basic blueprints.\n➤ Blue/Purple Drops: Journeyman gear and rare items.\n➤ Yellow/Red Drops: Advanced or Tek-related blueprints.\n➤ Bosses: Key source for Tek unlocks and late-game loot.\n\nHigh-tier crafting and progression are balanced to keep gameplay challenging but rewarding.</>"
+},
 					{
 						"title": "<TextStyle.Yellow>Drop & Gear Tips</>",
 						"text": "💠 White/Green Drops: Starter gear and basic blueprints.\n💎 Blue/Purple Drops: Journeyman gear and rare items.\n🔶 Yellow/Red Drops: Advanced or Tek-related blueprints.\n🏆 Bosses: Key source for Tek unlocks and late-game loot.\n\nHigh-tier crafting and progression are balanced to keep gameplay challenging but rewarding."
