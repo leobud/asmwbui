@@ -52,7 +52,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Green>Information</>",
-						"text": "For Consoles Discord link https://discord.gg/eJsHn4mPRg n\n Donations-Shop link https://chronsasastore.tebex.io/ \n For PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \n \n \n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n  r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n  r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n  r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0"
+						"text": "For Consoles Discord link https://discord.gg/eJsHn4mPRg  \n For PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \n \n \n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n  r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n  r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n  r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0"
 					},
 					{
 						"title": "<TextStyle.Green>Donations</>",
@@ -82,11 +82,11 @@
     "content": [
         {
             "title": "<TextStyle.Yellow>Gameplay & Progression</>",
-            "text": "<TextStyle.White>Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to <TextStyle.Cyan>Journeyman</>. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill <TextStyle.Red>Shinies</TextStyle> to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at <TextStyle.Green>Level 120</TextStyle>.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting.</TextStyle>"
+            "text": "Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to Journeyman. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill Shinies to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at Level 120.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting.</TextStyle>"
         },
         {
             "title": "<TextStyle.Yellow>Drop & Gear Tips</>",
-            "text": "<TextStyle.White>➤ White/Green Drops: Starter gear and basic blueprints.\n➤ Blue/Purple Drops: Journeyman gear and rare items.\n➤ Yellow/Red Drops: Advanced or Tek-related blueprints.\n➤ Bosses: Key source for Tek unlocks and late-game loot.\n\nHigh-tier crafting and progression are balanced to keep gameplay challenging but rewarding.</TextStyle>"
+            "text": "➤ White/Green Drops: Starter gear and basic blueprints.\n➤ Blue/Purple Drops: Journeyman gear and rare items.\n➤ Yellow/Red Drops: Advanced or Tek-related blueprints.\n➤ Bosses: Key source for Tek unlocks and late-game loot.\n\nHigh-tier crafting and progression are balanced to keep gameplay challenging but rewarding.</TextStyle>"
         }
     ]
 }
