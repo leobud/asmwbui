@@ -75,12 +75,12 @@
 					}
 				]
 			},
-{
-    "layout": 2,
-    "buttontext": "<TextStyle.Yellow>Gameplay</TextStyle>",
-    "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490",
-    "content": [
-        {
+			{
+   				 "layout": 2,
+   				 "buttontext": "<TextStyle.Yellow>Gameplay</TextStyle>",
+    			"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490",
+   				 "content": [
+      			  {
             "title": "<TextStyle.Yellow>Gameplay & Progression</TextStyle>",
             "text": "<TextStyle.White>Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to <TextStyle.Cyan>Journeyman</TextStyle>. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill <TextStyle.Red>Shinies</TextStyle> to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at <TextStyle.Green>Level 120</TextStyle>.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting.</TextStyle>"
         },
