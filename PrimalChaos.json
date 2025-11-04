@@ -15,72 +15,76 @@
 		"tabs": [
 			{
 				"layout": 2,
-				"buttontext": "<TextStyle.Red>Welcome</TextStyle>",
+				"buttontext": "<TextStyle.Red>Welcome</>",
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Red>👋 Welcome to ASGames Primal Chaos!</TextStyle>",
-						"text": "Welcome to ASGames Primal Chaos,  \r\n \r\n Please make a tribe \r\n\r\n Daily Restarts are at 5:00 am CST \r\n\r\n This server is a WIP; settings and mods are subject to change. \r\n\r\n We use auto decay — if your tribe is offline for more than 7 days your dinos and structures will be auto-wiped. To check decay time on any structure or dino, target them with your crosshair and type /decaytime for the time remaining. \r\n \r\n Structures that have less than 10 items will decay in 2 days (usually for unmanned taming pens).  \r\n\r\n ANY item that is the same as the recipe is disabled. \r\n\r\n Do NOT use names like 123 or Human, and do NOT use profanity or derogatory names — these will be renamed.\r\n \r\n This is a US server. Please only speak English in General Chat."
+						"title": "<TextStyle.Red>👋 Welcome to ASGames Primal Chaos!</>",
+						"text": "Welcome to ASGames Primal Chaos!  \r\n \r\nPlease make a tribe.\r\n\r\nDaily Restarts: 5:00 AM CST\r\n\r\nThis server is a WIP — settings and mods are subject to change. \r\n\r\nWe use auto decay: if your tribe is offline for more than 7 days your dinos and structures will be auto-wiped. To check decay time on any structure or dino, target them and type /decaytime for the remaining time. \r\n\r\nStructures with less than 10 items will decay in 2 days (usually taming pens).  \r\n\r\nAny item that matches its recipe is disabled. \r\n\r\nDo NOT use names like 123 or Human. Do NOT use profanity or derogatory names — they will be renamed.\r\n\r\nThis is a US server. Please only speak English in General Chat."
 					},
 					{
-						"title": "<TextStyle.Red>Notes</TextStyle>",
-						"text": "By holding down the menu, you can select the EC guide for more information.\n\nStructures take damage — build with that in mind. Don't build thatch houses."
+						"title": "<TextStyle.Red>Notes</>",
+						"text": "Hold down the menu button to select the EC Guide for more information.\r\n\r\nStructures take damage — build with that in mind. Avoid thatch houses!"
 					}
 				]
 			},
 			{
 				"layout": 2,
-				"buttontext": "<TextStyle.Blue>Rules</TextStyle>",
+				"buttontext": "<TextStyle.Blue>Rules</>",
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Blue>Rules</TextStyle>",
-						"text": "By playing on this server you consent to the rules laid out below: \n \n - Do not use profanity in general chat; a filter is in place. \n \n - Any items or exploits found that bypass mod progression will be removed immediately. Multiple infractions will result in a ban. \n \n - Do not use derogatory or offensive names. Your character will be renamed. \n \n - No excessive structure spam (pillars, foundations, etc.). \n \n - No building or blocking caves, artifacts, or loot crates, or concentrated resource areas (6+ nodes). \n \n - No blocking obelisks. \n \n - No hacking or exploiting game bugs. \n \n - No kiting dinos into bases to kill dinos or destroy structures. This results in an immediate ban. \n \n - No blocking resource spawns or harassing with nearby structures. \n \n - Random structures or 'spot holding' will cause ALL tribe structures to be wiped."
+						"title": "<TextStyle.Blue>Rules</>",
+						"text": "By playing on this server, you consent to the rules below:\n\n- Do not use profanity in general chat (a filter is in place).\n\n- Any items or exploits that bypass mod progression will be removed immediately; repeat offenses may result in a ban.\n\n- Do not use derogatory, offensive, or vulgar names. Your character will be renamed.\n\n- No excessive placement of structures, pillars, or foundations (no structure spamming).\n\n- No building or blocking of caves or resource areas that include artifacts, loot crates, or more than 6 resource nodes.\n\n- No blocking obelisks.\n\n- No hacking or exploiting game bugs.\n\n- No kiting or dropping dinos into bases to destroy property — this results in an immediate ban.\n\n- No blocking resource spawns or placing random small bases near them.\n\n- No harassment building near enemy bases.\n\n- No 'holding' base spots with temporary structures. Random buildings = full tribe wipe. Manage new tribe members carefully."
 					},
 					{
-						"title": "<TextStyle.Blue>Rules (Continued)</TextStyle>",
-						"text": "- Do not leave taming pens unattended; this counts as an extra structure and will result in a full wipe.\n\n- One 50x50 base per tribe. Max height: 20 walls.\n\n- Do NOT leave dinos out — use soulballs. Max 10 dinos out per tribe, except production dinos (e.g., gachas, breeders).\n\n- No racism or bullying — zero tolerance.\n\n- Do not give or trade high-tier items or tames to low-level players; they must earn progression themselves.\n\n- Abusing any mechanic or bug may result in a ban.\n\n- Wild teleporters must be public. Private teleporters will be limited to one per tribe.\n\n- Do not leech boss fights or AOE loot events.\n\n- Do not assist new players in obtaining eggs from wyvern trenches or similar content — they must do so independently.\n\n- No breeding of genderless mod dinos (they’re too overpowered)."
-					}
-				]
-			},
-{
-    "layout": 2,
-    "buttontext": "<TextStyle.Yellow>Gameplay</TextStyle>",
-    "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490",
-    "content": [
-        {
-            "title": "<TextStyle.Yellow>Gameplay & Progression</TextStyle>",
-            "text": "<TextStyle.White>Gliders help reduce fall damage.\n\nThe Upgrade Station allows upgrades only up to <TextStyle.Cyan>Journeyman</TextStyle>. For higher-tier blueprints, search loot drops or bosses.\n\nThe Blueprint Station is disabled.\n\nKill <TextStyle.Red>Shinies</TextStyle> to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at <TextStyle.Green>Level 120</TextStyle>.\n\nProgress through drops and exploration — this server encourages organic advancement, not instant crafting.</TextStyle>"
-        },
-        {
-            "title": "<TextStyle.Yellow>Drop & Gear Tips</TextStyle>",
-            "text": "<TextStyle.White>➤ White/Green Drops: Starter gear and basic blueprints.\n➤ Blue/Purple Drops: Journeyman gear and rare items.\n➤ Yellow/Red Drops: Advanced or Tek-related blueprints.\n➤ Bosses: Key source for Tek unlocks and late-game loot.\n\nHigh-tier crafting and progression are balanced to keep gameplay challenging but rewarding.</TextStyle>"
-        }
-    ]
-},
-			{
-				"layout": 2,
-				"buttontext": "<TextStyle.Green>Info</TextStyle>",
-				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
-				"content": [
-					{
-						"title": "<TextStyle.Green>Information</TextStyle>",
-						"text": "For Consoles Discord link: https://discord.gg/eJsHn4mPRg\n\nDonations-Shop link: https://chronsasastore.tebex.io/\n\nFor PC, press F3 for the shop.\n\n50 points are earned every 30 minutes to purchase items from the shop.\n\nEarn more points by donating. Use the Purchase Points button for the link.\n\nIf you have FPS issues, try these settings:\nPress ` (above TAB) to open console:\n\nr.VolumetricCloud 0\nr.Fog 0\ngrass.enable 0\nr.Streaming.PoolSize 0\nr.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16\nr.DynamicGlobalIlluminationMethod 2\nr.ShadowQuality 0"
-					},
-					{
-						"title": "<TextStyle.Green>Donations</TextStyle>",
-						"text": "You can give donations by purchasing points.\n\nClick 'Purchase Points' to go to our Tebex store.\n\nIn the store, click ARK SHOP ASCENDED, then select a package. Log in with your Steam account.\n\nIf purchasing a package or subscription, include your Discord name at checkout so roles can be assigned.\n\nIf purchasing points, use /redeem tbx-id in chat — you'll get your ID at checkout.\n\nPoints are instantly transferred once redeemed."
+						"title": "<TextStyle.Blue>Rules Cont</>",
+						"text": "- Do not leave taming pens unattended — counts as a second structure. ALL tribe structures will be wiped.\n\n- One base per tribe (max 50x50, 20 walls high).\n\n- Do NOT leave dinos out — use soulballs. Max 10 dinos out at a time (exceptions: gachas or active breeding).\n\n- Zero tolerance for racism or bullying.\n\n- Do not give high-tier items, tames, or eggs to lower-level players who have not progressed naturally.\n\n- Abusing any mechanic or exploit = ban.\n\n- Wild teleporters MUST be public. Non-compliance = limited to 1 per tribe.\n\n- Do not leech boss fights or AoE loot without invitation.\n\n- Do not kill wyverns or egg dinos for new players to take eggs — they must earn them.\n\n- No breeding of genderless mod dinos (too OP/unbalanced)."
 					}
 				]
 			},
 			{
 				"layout": 2,
-				"buttontext": "<TextStyle.Green>Settings</TextStyle>",
+				"buttontext": "<TextStyle.Green>Info</>",
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Green>Settings</TextStyle>",
-						"text": "Settings are subject to change.\n\nMax Dino Levels: 150\nPlayer Levels: 130 (with Chibi 135)\n\nHarvest: 3x\nTaming: 3x\nMating Interval Multiplier: 1x\nEgg Hatch Speed: 3x\nCrop Growth Speed: 50x\n\nCustom drops enabled."
+						"title": "<TextStyle.Green>Information</>",
+						"text": "For Consoles Discord link: https://discord.gg/eJsHn4mPRg\n\nDonations/Shop: https://chronsasastore.tebex.io/\n\nPC: Press F3 for the shop menu.\n\nYou earn 50 points every 30 minutes of playtime.\n\nEarn more points by donating — use the 'Purchase Points' button for link.\n\nIf you experience FPS issues, try these console commands:\n\nr.VolumetricCloud 0\nr.Fog 0\ngrass.enable 0\nr.Streaming.PoolSize 0\nr.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16\nr.DynamicGlobalIlluminationMethod 2\nr.ShadowQuality 0"
+					},
+					{
+						"title": "<TextStyle.Green>Donations</>",
+						"text": "You can support the server by purchasing points.\n\nClick the 'Purchase Points' tab — it leads to our Tebex store.\n\nIn the store, select ARK SHOP ASCENDED and log in with your Steam account.\n\nIf purchasing a package or subscription, include your Discord name for role setup and ensure your Discord is linked.\n\nAfter purchase, redeem points in-game with /redeem <tbx-id>.\n\nPoints are delivered instantly to your player."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Green>Settings</>",
+				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
+				"content": [
+					{
+						"title": "<TextStyle.Green>Settings</>",
+						"text": "Settings are subject to change.\n\nMax Dino Level: 150\n\nPlayer Levels: 130 (135 with Chibi)\n\nHarvest: 3x\n\nTaming: 3x\n\nMating Interval: 1x (default)\n\nEgg Hatch Speed: 3x\n\nCrop Growth: 50x\n\nCustom Drops enabled."
+					},
+					{
+						"title": "<TextStyle.Green>Gameplay</>",
+						"text": "Gliders help reduce fall damage.\n\nUpgrade Station upgrades only up to Journeyman. Higher-tier blueprints (Mastercraft and above) must be found from drops.\n\nBlueprint Station is disabled.\n\nKill Shinies to unlock Tek progression.\n\nMost Tek Engrams unlock automatically at level 120."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Green>Shop</>",
+				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
+				"content": [
+					{
+						"title": "<TextStyle.Green>Shop Overview</>",
+						"text": "Use F3 (PC) or the Shop option in the UI to view items available for purchase.\n\nEarn points by playing (50 per 30 minutes) or purchasing through our Tebex store."
+					},
+					{
+						"title": "<TextStyle.Green>Shop Items</>",
+						"text": "Coming soon!"
 					}
 				]
 			}
