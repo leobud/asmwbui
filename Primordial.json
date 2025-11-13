@@ -21,12 +21,12 @@
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Red>👋 Welcome to ASGames Primordial Unleashed!</>",
-						"text": "Welcome to ASGames Descended,  \r\n \r\n Please make a tribe \r\n\r\n Daily Restarts are at 5:00 am CST \r\n\r\n This server is a WIP settings and mods are subject to change. \r\n\r\n We use auto decay, if your tribe is offline for more than 7 days your dinos and structures will be auto-wiped. To check decay time on any structure or dino, target them with your crosshair and type /decaytime for the time remaining. \r\n \r\n Structures that have less than 10 items will decay in 2 days (usually for unmanned taming pens)  \r\n\r\n ANY item that is the same as the recipe is disabled. \r\n\r\n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed.\r\n \r\n This is a US server. Please only speak English in General Chat."
+						"title": "<TextStyle.Red>👋 Welcome to ASGames Servers!</>",
+						"text": "Welcome to ASGames Servers,  \r\n \r\n Please make a tribe \r\n\r\n Daily Restarts are at 5:00 am CST \r\n\r\n This server is a WIP settings and mods are subject to change. \r\n\r\n We use auto decay, if your tribe is offline for more than 8 days your dinos and structures will be auto-wiped. To check decay time on any structure or dino, target them with your crosshair and type /decaytime for the time remaining. \r\n \r\n Structures that have less than 10 items will decay in 2 days (usually for unmanned taming pens)  \r\n\r\n ANY item that is the same as the recipe is disabled. \r\n\r\n Do Not use names like 123 or human, Do Not use profanity or derogatory names, these will be renamed.\r\n \r\n This is a US server. Please only speak English in General Chat."
 					},
 					{
 						"title": "<TextStyle.Red>Notes</>",
-						"text": "By Holding down the menu you can select the ec guide for more information\n\n structure take damage so build with that in mind, Dont build thatch houses"
+						"text": "On most mods by holding down the menu you can select the guides for more information visit our discord\r\n\r\nStructure take damage so build with that in mind, Dont build thatch houses"
 					}
 				]
 			},
@@ -52,7 +52,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Green>Information</>",
-						"text": "For Consoles Discord link https://discord.gg/eJsHn4mPRg n\n Donations-Shop link https://chronsasastore.tebex.io/ \n For PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \n \n \n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n  r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n  r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n  r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0"
+						"text": "For Consoles \r\nDiscord link\r\n <TextStyle.Green>https://discord.gg/HmdzstVMpW</>\r\n\r\nDonations-Shop link \r\n <TextStyle.Green>https://asgamesstore.tebex.io/</>\r\nFor PC Press F3 For shop \r\n \r\n 50 points are earned every 30 minutes to purchase items from shop. \r\n \r\n Earn More points by donating. Use the Purchase Points Button for link \r\n \r\n \r\n \r\n If your having problems with fps frames try these settings.\r\n open command by hitting the ` key above tab on pc \r\n \r\n r.VolumetricCloud 0 \r\n r.Fog 0 \r\n grass.enable 0 \r\n r.Streaming.PoolSize 0 \r\n r.Streaming.PoolSize 0 \r\n r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \r\n r.DynamicGlobalIlluminationMethod 2 \r\n r.ShadowQuality 0"
 					},
 					{
 						"title": "<TextStyle.Green>Donations</>",
@@ -61,31 +61,16 @@
 				]
 			},
 			{
-				"layout": 2,
-				"buttontext": "<TextStyle.Green>Settings</>",
+				"layout": 1,
+				"buttontext": "<TextStyle.Yellow>Settings</>",
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
 					{
-						"title": "<TextStyle.Green>Setting</>",
-						"text": "Settings are Subject to Change \n Max Dino Levels 150 \n\n Player Levels 130 with chibi 135 \n\n Harvest 3x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 3x \n\n Crop Growth Speed Multiplier: 50 \n\n Custom drops "
+						"title": "<TextStyle.Yellow>Setting</>",
+						"text": "<TextStyle.Red>Settings are Subject to Change </>\r\n\r\n Max Dino Levels 150 \r\n\r\n Player Levels 130 with chibi 135 \r\n\r\n Harvest 3x \r\n\r\n Taming 3x \r\n\r\n Mating Interval Multiplier: 1x \r\n\r\n Egg Hatch Speed Multiplier: 3x \r\n\r\n Crop Growth Speed Multiplier: 50 \r\n\r\n Custom drops "
 					},
 					{
 						"title": "<TextStyle.Green>Other</>",
-						"text": ""
-					}
-				]
-			},
-			{
-				"layout": 2,
-				"buttontext": "<TextStyle.Green>Shop</>",
-				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
-				"content": [
-					{
-						"title": "<TextStyle.Green></>",
-						"text": ""
-					},
-					{
-						"title": "<TextStyle.Green>Shop Items</>",
 						"text": ""
 					}
 				]
