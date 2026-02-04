@@ -70,8 +70,8 @@
 						"text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\r\n\r\n Max Dino Levels 300 \r\n\r\n Player Levels 130 with chibi 135 \r\n\r\n Harvest 3x \r\n\r\n Taming 3x \r\n\r\n Mating Interval Multiplier: 1x \r\n\r\n Egg Hatch Speed Multiplier: 3x \r\n\r\n Crop Growth Speed Multiplier: 50 \r\n\r\n Custom drops "
 					},
 					{
-						"title": "<TextStyle.Green>Disabled Iteems</>",
-						"text": "The following items are disabled on GDG Mod \r\n\r\n StartKit \r\n\r\nNoDuraSet\r\n\r\nHeal25\r\n\r\nHeal50\r\n\r\nHeal100\r\n\r\nTranqRocket\r\n\r\nTranqArrow5x\r\n\r\nTranqArrow10x\r\n\r\nBigDaddySystem\r\n\r\nRaidArrows\r\n\r\nTranqGrenade\r\n\r\nTranqSniperLow\r\n\r\nTranqSniperMed\r\n\r\nTranqSniperHigh\r\n\r\nTranqSniperTsunami\r\n\r\nTranqSniperInstant\r\n\r\nTranqFork\r\n\r\nTranqTurret\r\n\r\nOPTurret"
+						"title": "<TextStyle.Green>Disabled Items</>",
+						"text": "The following items are disabled on GDG Mod\r\nStartKit\r\nNoDuraSet\r\nHeal25\r\nHeal50\r\nHeal100\r\nTranqRocket\r\nTranqArrow5x\r\nTranqArrow10x\r\nBigDaddySystem\r\nRaidArrows\r\nTranqGrenade\r\nTranqSniperLow\r\nTranqSniperMed\r\nTranqSniperHigh\r\nTranqSniperTsunami\r\nTranqSniperInstant\r\nTranqFork\r\nTranqTurret\r\nOPTurret"
 					}
 				]
 			}
