@@ -61,7 +61,7 @@
 				]
 			},
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "<TextStyle.Yellow>Settings</>",
 				"imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
 				"content": [
@@ -70,8 +70,8 @@
 						"text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\r\n\r\n Max Dino Levels 300 \r\n\r\n Player Levels 130 with chibi 135 \r\n\r\n Harvest 3x \r\n\r\n Taming 3x \r\n\r\n Mating Interval Multiplier: 1x \r\n\r\n Egg Hatch Speed Multiplier: 3x \r\n\r\n Crop Growth Speed Multiplier: 50 \r\n\r\n Custom drops "
 					},
 					{
-						"title": "<TextStyle.Green>Other</>",
-						"text": ""
+						"title": "<TextStyle.Green>Disabled Iteems</>",
+						"text": "The following items are disabled on GDG Mod \r\n\r\n StartKit \r\n\r\nNoDuraSet\r\n\r\nHeal25\r\n\r\nHeal50\r\n\r\nHeal100\r\n\r\nTranqRocket\r\n\r\nTranqArrow5x\r\n\r\nTranqArrow10x\r\n\r\nBigDaddySystem\r\n\r\nRaidArrows\r\n\r\nTranqGrenade\r\n\r\nTranqSniperLow\r\n\r\nTranqSniperMed\r\n\r\nTranqSniperHigh\r\n\r\nTranqSniperTsunami\r\n\r\nTranqSniperInstant\r\n\r\nTranqFork\r\n\r\nTranqTurret\r\n\r\nOPTurret"
 					}
 				]
 			}
