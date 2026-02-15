@@ -44,6 +44,17 @@
         ]
       },
       {
+        "layout": 1,
+        "buttontext": "<TextStyle.Yellow>Settings</>",
+        "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>Setting</>",
+            "text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\n\n Max Dino Levels 300 \n\n Player Levels 130 with chibi 135 \n\n Harvest 10x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 1x \n\n Crop Growth Speed Multiplier: 100\n\n Custom drops "
+          }
+        ]
+      },
+      {
         "layout": 2,
         "buttontext": "<TextStyle.Green>Info</>",
         "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
@@ -55,21 +66,6 @@
           {
             "title": "<TextStyle.Green>Donations</>",
             "text": "You can give donations by purchasing points. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the pkg, be sure to log in with your Steam account. If Purchasing a Pkg/Subscription be sure to enter your discord name at checkout so that a role maybe provided. Also be sure to link your discord with the server. \n \n if Purchasing Points use /redeem tbx-id in game chat, which you will be given a tbx-id at checkout. \n\n Points are instantly transfered to your player once purchased."
-          }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "<TextStyle.Yellow>Settings</>",
-        "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
-        "content": [
-          {
-            "title": "<TextStyle.Yellow>Setting</>",
-            "text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\n\n Max Dino Levels 300 \n\n Player Levels 130 with chibi 135 \n\n Harvest 10x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 1x \n\n Crop Growth Speed Multiplier: 100\n\n Custom drops "
-          },
-          {
-            "title": "<TextStyle.Green>Disabled Items</>",
-            "text": "The following items are disabled on GDG Mod\n-StartKit\n-NoDuraSet\n-Heal25\n-Heal50\n-Heal100\n-TranqRocket\n-TranqArrow5x\n-TranqArrow10x\n-BigDaddySystem\n-RaidArrows\n-TranqGrenade\n-TranqSniperLow\n-TranqSniperMed\n-TranqSniperHigh\n-TranqSniperTsunami\n-TranqSniperInstant\n-TranqFork\n-TranqTurret\n-OPTurret"
           }
         ]
       }
