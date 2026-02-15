@@ -7,9 +7,9 @@
       "iconurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
       "disableicontext": false,
       "iconposition": 0,
-      "icontextcolor": 0,
+      "icontextcolor": 1,
       "openonstart": true,
-      "openonstartonlynewplayers": true,
+      "openonstartonlynewplayers": false,
       "updateinterval": 12
     },
     "tabs": [
