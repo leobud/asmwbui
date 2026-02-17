@@ -54,7 +54,7 @@
           },
           {
             "title": "<RichColor Color=\"1,1,0,1\">More Settings</>",
-            "text": "<RichColor Color=\"1,0.5,0,1\">Shinys are not tamable \\r\\n They are for Killing only to get element, Chibis and unlock Tek Engrams</>"
+            "text": "<RichColor Color=\"1,0.5,0,1\">Shinys are not tamable </>\\r\\n <RichColor Color=\"1,0.5,0,1\">They are for Killing only to get element, Chibis and unlock Tek Engrams</>"
           }
         ]
       },
