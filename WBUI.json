@@ -44,13 +44,17 @@
         ]
       },
       {
-        "layout": 1,
+        "layout": 2,
         "buttontext": "<TextStyle.Yellow>Settings</>",
         "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
         "content": [
           {
             "title": "<TextStyle.Yellow>Setting</>",
             "text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\n\n Max Dino Levels 300 \n\n Player Levels 130 with chibi 135 \n\n Harvest 10x \n\n Taming 3x \n\n Mating Interval Multiplier: 1x \n\n Egg Hatch Speed Multiplier: 1x \n\n Crop Growth Speed Multiplier: 100\n\n Custom drops "
+          },
+          {
+            "title": "<TextStyle.Yellow>WeekEnd Rates</>",
+            "text": "<TextStyle.Red>Starting on Saturday at 1 Am CST Weekend Rates are effective until Monday at 1 AM CST</>\n\nCropGrowthSpeedMultiplier=50\nHarvestAmountMultiplier=50\nMatingIntervalMultiplier=0.01\nBabyMatureSpeedMultiplier=50\nEggHatchSpeedMultiplier=100\nXPMultiplier=50\nTamingSpeedMultiplier=50\nMatingSpeedMultiplier=50"
           }
         ]
       },
