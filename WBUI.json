@@ -54,7 +54,7 @@
         "content": [
           {
             "title": "<TextStyle.Yellow>Setting</>",
-            "text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\n\n Max Dino Levels 150\n\n Player Levels 105 with chibi 110 \n\n Player Xp 3x\n\n Harvest 5x \n\n Taming 5x \n\n Mating Interval Multiplier: .2x\n\n Egg Hatch Speed Multiplier: 10x \n\n Crop Growth Speed Multiplier: 100\n\n Custom drops "
+            "text": "<TextStyle.Red>Settings are Subject to Change and are different from server to server </>\n\n Max Dino Levels 150\n\n Player Levels 105 with chibi 110 \n\n Player Xp 3x\n\n Harvest 5x \n\n Taming 5x \n\n Mating Interval Multiplier: .2x\n\n Egg Hatch Speed Multiplier: 10x \n\n Crop Growth Speed Multiplier: 100\n\n Custom drops \n\nORP (Offline Raid Protetion) is on, Base wont be destroyed if your offline by dinos"
           }
         ]
       },
@@ -65,11 +65,11 @@
         "content": [
           {
             "title": "<TextStyle.Green>Information</>",
-            "text": "For Consoles \nDiscord link\n <TextStyle.Green>https://discord.gg/HmdzstVMpW</>\n\nDonations-Shop link \n <TextStyle.Green>https://sasstore.tebex.io//</>\nFor PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \n \n \n \n If your having problems with fps frames try these settings.\n open command by hitting the ` key above tab on pc \n \n r.VolumetricCloud 0 \n r.Fog 0 \n grass.enable 0 \n r.Streaming.PoolSize 0 \n r.Streaming.PoolSize 0 \n r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 \n r.DynamicGlobalIlluminationMethod 2 \n r.ShadowQuality 0"
+            "text": "Do Not Build with Vanilla Strusctures (They May Not Lock)\nInstead Build with either Cyberstructures or Arkitect Structure Remastered\nThat includes benchs and etc..\n\nPut all dinos in dino depot terminal, they will produce eggs faster and other resources.\nDung Beetles will make Fertilizer and Oil and send to crop Plots\nSnails will Produce Cement Paste\nBasio will make oil\n\nUse Potions for Raising babies, bypassing mating and changing sex\n\nYou can add your Display filters by going into AAT>User Preferences>Automation\nMost Common are:\ngrass.sizescale 0\nr.Fog 0\nr.VolumetricCloud 0\n\nBuild a Nice base\nAny structure with less than 20 items have a decay time of 2 days (VIP 4 days)\nBases will have decay time of 8 days (VIP 14 days)\nBy loging in, you can reset your time for all servers, to check a base type /decaytime\nA field will show, showing the area coverage\n\n\n \n \n \n"
           },
           {
             "title": "<TextStyle.Green>Donations</>",
-            "text": "You can give donations by purchasing points. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the pkg, be sure to log in with your Steam account. If Purchasing a Pkg/Subscription be sure to enter your discord name at checkout so that a role maybe provided. Also be sure to link your discord with the server. \n \n if Purchasing Points use /redeem tbx-id in game chat, which you will be given a tbx-id at checkout. \n\n Points are instantly transfered to your player once purchased."
+            "text": "For Consoles \nDiscord link\n <TextStyle.Green>https://discord.gg/HmdzstVMpW</>\n\nDonations-Shop link \n <TextStyle.Green>https://sasstore.tebex.io//</>\nFor PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \nYou can give donations by purchasing points. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the pkg, be sure to log in with your Steam account. If Purchasing a Pkg/Subscription be sure to enter your discord name at checkout so that a role maybe provided. Also be sure to link your discord with the server. \n \n if Purchasing Points use /redeem tbx-id in game chat, which you will be given a tbx-id at checkout. \n\n Points are instantly transfered to your player once purchased."
           }
         ]
       }
