@@ -59,7 +59,7 @@
         ]
       },
       {
-        "layout": 2,
+        "layout": 3,
         "buttontext": "<TextStyle.Green>Info</>",
         "imageurl": "https://cdn.discordapp.com/attachments/818115628186468353/1170103753555324949/Stoney.png?ex=6557d30a&is=65455e0a&hm=ceb566720be3451c8ea245926105fba37067f0d2da3bd5c010e37f8b0129f490&",
         "content": [
@@ -70,6 +70,10 @@
           {
             "title": "<TextStyle.Green>Donations</>",
             "text": "For Consoles \nDiscord link\n <TextStyle.Green>https://discord.gg/HmdzstVMpW</>\n\nDonations-Shop link \n <TextStyle.Green>https://sasstore.tebex.io//</>\nFor PC Press F3 For shop \n \n 50 points are earned every 30 minutes to purchase items from shop. \n \n Earn More points by donating. Use the Purchase Points Button for link \nYou can give donations by purchasing points. \n \n Click the tab Purchase Points , this will take you to the Tebex store. \n \n In the store click ARK SHOP ASCENDED then select the package, be sure to log in with your Steam account. If Purchasing a Pkg/Subscription be sure to enter your discord name at checkout so that a role may be provided. Also be sure to link your discord with the server. \n \n if Purchasing Points use /redeem tbx-id in game chat, which you will be given a tbx-id at checkout. \n\n Points are instantly transferred to your player once purchased."
+          },
+          {
+            "title": "Solo Farm ",
+            "text": "Commands:\n/farm [AttackType] (Chat) - Toggle farming on dino you're looking, riding or carrying.\n/stopall (Chat) - Stop all your dinos from farming."
           }
         ]
       }
